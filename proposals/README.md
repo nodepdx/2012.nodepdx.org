@@ -28,7 +28,7 @@ If you'd like to add in a **personal bio** or other details like links to your *
 
 To make this easier, I've created a template you can copy and modify. See **proposal-template_troy-howard.md** in this directory.
 
-If you have any other artifacts that relate to your presentation, like slide decks, code samples, videos, etc, make a directory named the same as your presentation.md and put the files in there. For example, if my proposal was saved in **intro-to-nodejs_john-doe.md**, place the example code in **~/nodepdx.github.com/proposals/intro-to-nodejs_john-doe/example-code.js** 
+If you have any other artifacts that relate to your presentation, like slide decks, code samples, videos, etc, make a directory named the same as your presentation.md and put the files in there. For example, if my proposal was saved in **intro-to-nodejs_john-doe.md**, place the example code in **~/2012.nodepdx.org/proposals/intro-to-nodejs_john-doe/example-code.js** 
 
 
 What are we looking for?

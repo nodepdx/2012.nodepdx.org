@@ -2,7 +2,7 @@
 layout: sponsors
 title: Julie Olver
 item_url: https://plus.google.com/106454809408036867119/about
-image_url: http://nodepdx.github.com/sponsors/julie.jpg
+image_url: http://2012.nodepdx.org/sponsors/julie.jpg
 slug: julie_olver
 ---
 ### Who Are They?
@@ -11,4 +11,4 @@ Julie Olver is an independent marketing specialist and graphic designer based in
 
 ### What Did They Contribute?
 
-Julie helped design our [awesome logo](http://nodepdx.github.com/assets/logo.png)! Thanks, Julie!
+Julie helped design our [awesome logo](http://2012.nodepdx.org/assets/logo.png)! Thanks, Julie!

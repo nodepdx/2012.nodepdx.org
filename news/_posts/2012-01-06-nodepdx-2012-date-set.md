@@ -9,6 +9,6 @@ This will be a *free* conference for attendees. If you're a business that wants 
 
 For everyone else: We're accepting proposals for talks and working out event space details now. More to come!
 
-To submit a presentaion proposal check out the [instructions](https://github.com/nodepdx/nodepdx.github.com/blob/gh-pages/proposals/README.md).
+To submit a presentaion proposal check out the [instructions](https://github.com/nodepdx/2012.nodepdx.org/blob/gh-pages/proposals/README.md).
 
 Go to our lanyard.com site for all the juicy details: [http://lanyrd.com/2012/nodepdx/](http://lanyrd.com/2012/nodepdx/)

@@ -9,4 +9,4 @@ Nedspace is a comfy environment for the main event, with great access to public 
 
 This was the last major piece towards making this a completely "money free" conference. If only I can get someone to donate coffee and beer...
 
-Also, if anyone is interested in volunteering, I will need a bit of help setting up the event space, cleaning up afterwards, managing door security, etc.. Please email thoward37@gmail.com if you're interested!
+Also, if anyone is interested in volunteering, I will need a bit of help setting up the event space, cleaning up afterwards, managing door security, etc.. Please email troy@nodepdx.org if you're interested!

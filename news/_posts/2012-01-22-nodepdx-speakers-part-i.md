@@ -11,6 +11,6 @@ We've been busy over the last few days to bring you some great content from some
 
 Keep reading for more speaker announcements, event additions, and other news.
 
-If you're interested in speaking, let us know here: [instructions](https://github.com/nodepdx/nodepdx.github.com/blob/gh-pages/proposals/README.md)
+If you're interested in speaking, let us know here: [instructions](https://github.com/nodepdx/2012.nodepdx.org/blob/gh-pages/proposals/README.md)
 
 If you're sold and ready to attend: [RSVP](http://lanyrd.com/2012/nodepdx/)
